@@ -1,2 +1,2 @@
 # google-clone
-Practice HTML and CSS
+HTML and CSS practice with Google page clone.
