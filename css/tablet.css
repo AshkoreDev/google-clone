@@ -1,56 +1,43 @@
-nav .nav-right-section a {
+.nav-right-section a {
   font-size: 1.4rem;
-  font-weight: 500;
 }
 
-nav .nav-right-section .menu-icon {
-  width: 25px;
-  height: 25px;
+.main-logo img {
+  width: 300px;
 }
 
-main .main-logo img {
-  width: 280px;
-  height: 90px;
+.main-input {
+  width: 40%;
 }
 
-main .main-input {
-  width: 45%;
-}
-
-main .main-input input {
+.main-input input {
   height: 40px;
   font-size: 1.5rem;
 }
 
-main .main-input .search-icon,
-main .main-input .micro-icon {
-  width: 16px;
-  height: 16px;
-}
-
-main .main-buttons button {
+.main-buttons button {
   height: 40px;
   font-size: 1.5rem;
 }
 
-footer .footer-top {
+.footer-top {
   padding: 15px 0 15px 30px;
   font-size: 1.5rem;
   font-weight: normal;
 }
 
-footer .footer-bottom {
+.footer-bottom {
+  padding: 15px 0 15px 30px;
+  font-size: 1.5rem;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: none;
   grid-row-gap: 0px;
-  padding: 15px 0 15px 30px;
-  font-size: 1.5rem;
 }
 
-footer .footer-bottom .footer-bottom-left {
+.footer-bottom-left {
   justify-content: flex-start;
 }
 
-footer .footer-bottom .footer-bottom-right {
+.footer-bottom-right {
   justify-content: flex-end;
 }
